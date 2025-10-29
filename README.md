@@ -1,2 +1,2 @@
-# Leetcode_Solutions
-Programs for basic concepts of DSA in python
+# Leetcode_Solutions DSA in Java
+Solutions of Leetcode Problems.
