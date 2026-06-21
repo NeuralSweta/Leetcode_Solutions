@@ -23,6 +23,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [2643-row-with-maximum-ones](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Greedy
 |  |
 | ------- |
@@ -53,4 +54,5 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
