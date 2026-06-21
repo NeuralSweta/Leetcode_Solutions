@@ -36,9 +36,11 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
