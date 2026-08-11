@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0213-house-robber-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0322-coin-change) |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
