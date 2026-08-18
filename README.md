@@ -29,6 +29,7 @@
 | [1539-kth-missing-positive-number](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2643-row-with-maximum-ones](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
@@ -84,4 +85,8 @@
 | ------- |
 | [0039-combination-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0040-combination-sum-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 <!---LeetCode Topics End-->
