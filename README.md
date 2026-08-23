@@ -38,6 +38,7 @@
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1927-sum-game) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0441-arranging-coins) |
+| [1927-sum-game](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
@@ -78,6 +80,7 @@
 ## String
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
 |  |
@@ -93,4 +96,8 @@
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
