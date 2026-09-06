@@ -110,4 +110,8 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1927-sum-game) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
