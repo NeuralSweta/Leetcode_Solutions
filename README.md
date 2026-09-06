@@ -27,6 +27,7 @@
 | [0074-search-a-2d-matrix](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0213-house-robber-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -67,6 +68,7 @@
 | [0074-search-a-2d-matrix](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
