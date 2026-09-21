@@ -45,6 +45,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2643-row-with-maximum-ones](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3524-find-x-value-of-array-i](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
@@ -69,6 +70,7 @@
 | [0367-valid-perfect-square](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [1927-sum-game](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1927-sum-game) |
+| [3524-find-x-value-of-array-i](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
@@ -101,6 +103,7 @@
 | [0213-house-robber-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Breadth-First Search
 |  |
 | ------- |
