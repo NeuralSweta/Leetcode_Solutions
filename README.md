@@ -16,6 +16,7 @@
 | ------- |
 | [0078-subsets](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0190-reverse-bits) |
+| [0779-k-th-symbol-in-grammar](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1386-cinema-seat-allocation](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Array
@@ -69,6 +70,7 @@
 | [0069-sqrtx](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0441-arranging-coins) |
+| [0779-k-th-symbol-in-grammar](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1927-sum-game](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [3524-find-x-value-of-array-i](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -144,4 +146,8 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
