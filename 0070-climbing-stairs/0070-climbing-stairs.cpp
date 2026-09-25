@@ -1,13 +1,14 @@
 class Solution {
 public:
+#define ll long long
     int climbStairs(int n) {
-        vector<int>dp(n+1,-1);
-        return helper(dp,n,0);
+        vector<ll>dp(n+1,-1);
+        dp[0]=1;
+        dp[1]=2;
+        for(auto i=2;i<n;i++){
+            dp[i]=dp[i-1]+dp[i-2];
+        }
+        return dp[n-1];
     }
-    int helper(vector<int>&dp,int n,int i){
-         if(i>n)return 0;
-         if(i==n)return 1;
-         if(dp[i]!=-1)return dp[i];
-         return dp[i]=helper(dp,n,i+1)+helper(dp,n,i+2);
-    }
+    
 };
