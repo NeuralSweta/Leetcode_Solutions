@@ -47,6 +47,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2643-row-with-maximum-ones](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -77,6 +78,7 @@
 | [0367-valid-perfect-square](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [0779-k-th-symbol-in-grammar](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1927-sum-game](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [3524-find-x-value-of-array-i](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -167,6 +169,7 @@
 | [0050-powx-n](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0779-k-th-symbol-in-grammar](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -179,4 +182,9 @@
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
