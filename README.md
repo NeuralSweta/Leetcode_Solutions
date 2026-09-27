@@ -125,6 +125,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0091-decode-ways](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [1927-sum-game](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
@@ -166,4 +167,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
