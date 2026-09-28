@@ -33,6 +33,7 @@
 | [0053-maximum-subarray](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0079-word-search) |
 | [2643-row-with-maximum-ones](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Dynamic Programming
 |  |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -149,6 +152,7 @@
 | [0046-permutations](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 ## Hash Table
 |  |
@@ -193,4 +197,8 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
