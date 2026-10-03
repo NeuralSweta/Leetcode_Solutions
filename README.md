@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0198-house-robber) |
@@ -201,4 +203,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0079-word-search) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
