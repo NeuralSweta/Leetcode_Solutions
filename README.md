@@ -86,6 +86,7 @@
 | [0367-valid-perfect-square](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [0779-k-th-symbol-in-grammar](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [1137-n-th-tribonacci-number](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1927-sum-game](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [3524-find-x-value-of-array-i](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -132,6 +133,7 @@
 | [0322-coin-change](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0740-delete-and-earn](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0740-delete-and-earn) |
+| [1137-n-th-tribonacci-number](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [3524-find-x-value-of-array-i](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Breadth-First Search
 |  |
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
