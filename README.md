@@ -46,6 +46,7 @@
 | [0410-split-array-largest-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0740-delete-and-earn](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0741-cherry-pickup) |
 | [0875-koko-eating-bananas](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -118,6 +119,7 @@
 | [0064-minimum-path-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0079-word-search) |
+| [0741-cherry-pickup](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0741-cherry-pickup) |
 | [2643-row-with-maximum-ones](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Dynamic Programming
 |  |
@@ -133,6 +135,7 @@
 | [0322-coin-change](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0740-delete-and-earn](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0741-cherry-pickup) |
 | [1137-n-th-tribonacci-number](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [3524-find-x-value-of-array-i](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Breadth-First Search
