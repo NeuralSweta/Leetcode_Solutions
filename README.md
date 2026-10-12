@@ -146,6 +146,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0322-coin-change) |
 ## String
 |  |
@@ -154,6 +155,7 @@
 | [0079-word-search](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1927-sum-game](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -172,6 +174,7 @@
 | [0078-subsets](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Hash Table
 |  |
 | ------- |
