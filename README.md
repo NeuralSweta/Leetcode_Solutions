@@ -38,6 +38,7 @@
 | [0079-word-search](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0198-house-robber) |
@@ -138,6 +139,7 @@
 | [0072-edit-distance](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0322-coin-change) |
