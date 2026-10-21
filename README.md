@@ -53,6 +53,7 @@
 | [0494-target-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0741-cherry-pickup) |
 | [0875-koko-eating-bananas](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
@@ -75,6 +76,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1386-cinema-seat-allocation](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1927-sum-game) |
@@ -158,6 +160,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0741-cherry-pickup) |
 | [1137-n-th-tribonacci-number](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
