@@ -2,27 +2,29 @@ class Solution {
 public:
     int maxProfit(vector<int>& prices) {
         int n=prices.size();
-        vector<vector<vector<int>>>dp(n+1,vector<vector<int>>(2,vector<int>(3,-1)));
-         for(int i=0;i<n;i++){
-            for(int j=0;j<2;j++){
-                dp[i][j][0]=0;
-            }
-        }
-        for(int i=0;i<2;i++){
-            for(int j=0;j<3;j++){
-                dp[n][i][j]=0;
-            }
-        }
+        vector<vector<int>>next(2,vector<int>(3,0));
+        vector<vector<int>>cur(2,vector<int>(3,0));
+        //  for(int i=0;i<n;i++){
+        //     for(int j=0;j<2;j++){
+        //         dp[i][j][0]=0;
+        //     }
+        // }
+        // for(int i=0;i<2;i++){
+        //     for(int j=0;j<3;j++){
+        //         dp[n][i][j]=0;
+        //     }
+        // }
         for(int idx=n-1;idx>=0;idx--){
             for(int j=0;j<2;j++){
                 for(int k=1;k<3;k++){
                      int profit=0;
-                     if(j)profit=max((-prices[idx]+dp[idx+1][0][k]),dp[idx+1][1][k]);
-                     else profit=max((prices[idx]+dp[idx+1][1][k-1]),dp[idx+1][0][k]);
-                     dp[idx][j][k]=profit;
+                     if(j)profit=max((-prices[idx]+next[0][k]),next[1][k]);
+                     else profit=max((prices[idx]+next[1][k-1]),next[0][k]);
+                     cur[j][k]=profit;
                 }
             }
+            next=cur;
         }
-        return dp[0][1][2];
+        return cur[1][2];
     }
 };
