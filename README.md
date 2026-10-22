@@ -73,6 +73,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -138,6 +139,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
@@ -177,6 +179,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0044-wildcard-matching](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0091-decode-ways) |
@@ -228,6 +231,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0779-k-th-symbol-in-grammar](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
