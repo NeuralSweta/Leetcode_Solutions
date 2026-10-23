@@ -34,6 +34,7 @@
 | [0063-unique-paths-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [1552-magnetic-force-between-two-balls](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -250,6 +252,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 ## Simulation
 |  |
@@ -302,4 +305,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
