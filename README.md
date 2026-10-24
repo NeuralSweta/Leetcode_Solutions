@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0039-combination-sum) |
@@ -86,6 +87,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [1552-magnetic-force-between-two-balls](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -252,6 +254,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 ## Simulation
