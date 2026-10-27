@@ -185,6 +185,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 ## String
 |  |
 | ------- |
@@ -273,6 +274,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0079-word-search) |
+| [0547-number-of-provinces](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 ## Combinatorics
 |  |
 | ------- |
@@ -319,4 +321,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0075-sort-colors) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
