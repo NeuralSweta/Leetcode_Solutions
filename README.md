@@ -48,6 +48,7 @@
 | [0162-find-peak-element](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -141,6 +142,7 @@
 | [0064-minimum-path-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0741-cherry-pickup](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0741-cherry-pickup) |
 | [1463-cherry-pickup-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1463-cherry-pickup-ii) |
 | [2643-row-with-maximum-ones](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
@@ -183,6 +185,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
@@ -274,6 +277,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 ## Combinatorics
 |  |
@@ -324,6 +328,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
