@@ -54,6 +54,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0494-target-sum) |
@@ -94,6 +95,7 @@
 | [0016-3sum-closest](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -128,6 +130,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -145,6 +148,7 @@
 | [0074-search-a-2d-matrix](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0741-cherry-pickup](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0741-cherry-pickup) |
 | [1463-cherry-pickup-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1463-cherry-pickup-ii) |
 | [2643-row-with-maximum-ones](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
@@ -337,4 +341,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
