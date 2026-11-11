@@ -284,6 +284,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 ## Combinatorics
@@ -310,6 +311,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
@@ -345,4 +347,12 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
