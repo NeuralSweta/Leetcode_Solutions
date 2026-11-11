@@ -285,6 +285,7 @@
 | ------- |
 | [0079-word-search](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 ## Combinatorics
@@ -351,8 +352,14 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
