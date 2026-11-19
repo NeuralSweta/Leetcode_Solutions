@@ -18,6 +18,7 @@
 | [0078-subsets](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0190-reverse-bits) |
+| [0371-sum-of-two-integers](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1386-cinema-seat-allocation](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -110,6 +111,7 @@
 | [0069-sqrtx](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [0779-k-th-symbol-in-grammar](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1137-n-th-tribonacci-number](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
