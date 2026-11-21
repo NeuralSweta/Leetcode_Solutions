@@ -188,6 +188,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0741-cherry-pickup) |
+| [1092-shortest-common-supersequence](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1463-cherry-pickup-ii) |
@@ -217,6 +218,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [1092-shortest-common-supersequence](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1927-sum-game](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1927-sum-game) |
@@ -334,6 +336,7 @@
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 ## Longest Increasing Subsequence
 |  |
