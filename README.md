@@ -177,6 +177,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0494-target-sum) |
@@ -211,6 +212,7 @@
 | [0115-distinct-subsequences](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0392-is-subsequence](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
@@ -276,6 +278,7 @@
 | [0075-sort-colors](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
