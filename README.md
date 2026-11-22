@@ -208,6 +208,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
@@ -249,6 +250,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0740-delete-and-earn](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0740-delete-and-earn) |
 | [1386-cinema-seat-allocation](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -389,5 +391,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
