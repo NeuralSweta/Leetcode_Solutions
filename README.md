@@ -63,6 +63,7 @@
 | [0494-target-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0646-maximum-length-of-pair-chain](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0741-cherry-pickup) |
@@ -88,6 +89,7 @@
 | [0044-wildcard-matching](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1386-cinema-seat-allocation](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -101,6 +103,7 @@
 | [0047-permutations-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1552-magnetic-force-between-two-balls](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -189,6 +192,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -356,6 +360,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/NeuralSweta/Leetcode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Quicksort
 |  |
 | ------- |
